@@ -40,7 +40,7 @@ function Home() {
       
       <div className="hero">
         <h1>Serviço de Animação Vocacional</h1>
-        <p>Descubra o chamado de Deus para sua vida na Diocese de Nova Iguaçu</p>
+        <p>Descubra o chamado de Deus</p>
       </div>
 
       <h2>Vocações em Destaque</h2>
