@@ -21,7 +21,7 @@ function Card({ titulo, texto, imagem, caracteristicas, onClick }) {
             {caracteristicas && (
                 <ul className="caracteristicas">
                     {caracteristicas.map((item, idx) => (
-                        <li key={idx}>✓ {item}</li>
+                        <li key={idx}> {item}</li>
                     ))}
                 </ul>
             )}
