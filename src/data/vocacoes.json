@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "Sacerdote Diocesano",
-    "imagem": "/public/Imagens/sacerdotal.jpg",
+    "imagem": "/Imagens/sacerdotal.jpg",
     "descricao": "O sacerdote diocesano é chamado a servir na diocese, sendo ordenado para o serviço pastoral junto às comunidades paroquiais.",
     "caracteristicas": [
       "Vida de oração diária",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "nome": "Vida Religiosa Masculina",
-    "imagem": "/public/Imagens/sacerdotes.jpg",
+    "imagem": "/Imagens/sacerdotes.jpg",
     "descricao": "Religiosos consagrados que vivem em comunidade, seguindo um carisma específico e fazendo votos de pobreza, castidade e obediência.",
     "caracteristicas": [
       "Vida comunitária",
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "nome": "Vida Religiosa Feminina",
-    "imagem": "/public/Imagens/religiosa.jpg",
+    "imagem": "/Imagens/religiosa.jpg",
     "descricao": "Religiosas consagradas que dedicam suas vidas a Deus através da vida comunitária, oração e serviço aos mais necessitados.",
     "caracteristicas": [
       "Vida de oração contemplativa ou ativa",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "nome": "Vida Laical",
-        "imagem": "/public/Imagens/laical.jpg",
+        "imagem": "/Imagens/laical.jpg",
         "descricao": "Leigos e leigas que vivem sua vocação no mundo, comprometidos com a evangelização e o serviço à comunidade.",
         "caracteristicas": [
         "Consagração a Deus no mundo",
