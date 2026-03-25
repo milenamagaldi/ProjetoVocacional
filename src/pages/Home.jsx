@@ -31,7 +31,7 @@ function Home() {
     { titulo: "Vocação Sacerdotal", texto: "O chamado para servir ao Povo de Deus como presbítero.", imagem: "/Imagens/sacerdotal.jpg", path: "/sav" },
     { titulo: "Vida Religiosa", texto: "A entrega total a Deus através dos conselhos evangélicos.", imagem: "/Imagens/religiosa.jpg", path: "/sav" },
     { titulo: "Vida Laical", texto: "O chamado para viver no mundo, dedicando-se aos valores cristãos.", imagem: "/Imagens/laical.jpg", path: "/sav" },
-    { titulo: "Discernimento", texto: "Como descobrir a vontade de Deus para sua vida.", imagem: "/public/Imagens/vocacoes-banner.png", path: "/sav" }
+    { titulo: "Discernimento", texto: "Como descobrir a vontade de Deus para sua vida.", imagem: "/Imagens/vocacoes-banner.png", path: "/sav" }
   ]
 
   return (
