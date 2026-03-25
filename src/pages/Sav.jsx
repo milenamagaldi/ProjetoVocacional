@@ -1,24 +1,3 @@
-// import '../styles/Style.css'
-
-// function Empresa() {
-//   return (
-//     <div className="container">
-//       <h1>Sobre o SAV - Diocese de Nova Iguaçu.</h1>
-//       <img src="https://picsum.photos/800/300" />
-//       <p>
-//         O Serviço de Animação Vocacional tem como objetivo acompanhar jovens no seu processo de discernimento, ajudando-os a ouvir a voz de Deus.
-//       </p>
-//       <p>
-//         O SAV é um espaço de escuta, oração e formação, onde os jovens podem compartilhar suas dúvidas, medos e esperanças. Através de encontros, retiros e atividades, buscamos criar um ambiente acolhedor e inspirador para que os jovens possam crescer na fé e no amor a Deus.
-//       </p>
-//       <p>
-//         Se você sente um chamado para servir a Deus e à Igreja, o SAV está aqui para te ajudar a descobrir qual é a sua vocação. Venha fazer parte dessa jornada de fé e discernimento!
-//       </p>
-//     </div>
-//   )
-// }
-// export default Empresa
-
 import '../styles/Style.css'
 import { useNavigate } from 'react-router-dom'
 

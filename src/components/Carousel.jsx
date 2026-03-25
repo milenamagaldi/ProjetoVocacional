@@ -1,24 +1,3 @@
-// import { Carousel } from 'react-responsive-carousel'
-// import "react-responsive-carousel/lib/styles/carousel.min.css"
-// import '../styles/Style.css'
-
-// function CarouselHome() {
-//     return (
-//         <Carousel autoPlay infiniteLoop showThumbs={false}>
-//             <div>
-//                 <img src="https://picsum.photos/1200/400?1" />
-//             </div>
-//             <div>
-//                 <img src="https://picsum.photos/1200/400?2" />
-//             </div>
-//             <div>
-//                 <img src="https://picsum.photos/1200/400?3" />
-//             </div>
-//         </Carousel>
-//     )
-// }
-
-// export default CarouselHome
 import { Carousel } from 'react-responsive-carousel'
 import "react-responsive-carousel/lib/styles/carousel.min.css"
 import '../styles/Style.css'
