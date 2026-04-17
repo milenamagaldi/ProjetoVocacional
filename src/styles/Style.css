@@ -499,6 +499,46 @@ body {
   display: none !important;
 }
 
+/* ===== SEMENTE DE LUZ ===== */
+.semente-luz-container {
+  background: linear-gradient(135deg, #fffde7 0%, #f0f4f8 100%);
+  border-left: 5px solid #ffd966;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+  margin: 40px auto;
+  max-width: 800px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s;
+}
+
+.semente-luz-container:hover {
+  transform: translateY(-3px);
+}
+
+.semente-icone {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.semente-titulo {
+  color: #1a4a8e;
+  font-size: 1.2rem;
+  margin-top: 0;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.semente-texto {
+  color: #1a4a8e;
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: 500;
+  margin: 0;
+  line-height: 1.8;
+}
+
 /* ===== RESPONSIVIDADE ===== */
 @media (max-width: 1024px) {
   .carousel-wrapper {
