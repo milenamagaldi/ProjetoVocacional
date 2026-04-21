@@ -8,17 +8,17 @@ function Discernimento() {
         {
             numero: "1",
             titulo: "Oração e Escuta",
-            texto: "O primeiro passo é cultivar uma intimidade com Deus. Reserve momentos diários de silêncio, leia a Palavra e participe dos sacramentos. É na paz que Deus costuma falar."
+            texto: "Um passo essencial é a oração e a leitura da palavra (quando rezamos falamos com Deus, quando lemos a bíblia, Deus fala conosco). Exercite isso diariamente e cultive sua intimidade com o Senhor. Somente Ele irá te dar clareza das decisões."
         },
         {
             numero: "2",
             titulo: "Autoconhecimento",
-            texto: "Deus chama você através de quem você é! Entender seus talentos, desejos profundos, medos e história de vida ajuda a perceber onde você pode servir com mais alegria."
+            texto: "Muitas vezes, queremos entender a nossa vocação com base em coisas extraordinárias, mas basta olhar para dentro de si mesmo. Quais são os seus dons? O que te faz vibrar? O que te entristece? Deus se revela também através dos nossos talentos e paixões. A  nossa vocação está intimamente ligada a quem somos, e não apenas ao que fazemos. O autoconhecimento é um passo fundamental para o discernimento, pois nos ajuda a entender melhor os nossos desejos, medos e limitações, e a perceber onde Deus pode estar nos chamando a servir."
         },
         {
             numero: "3",
             titulo: "Acompanhamento Espiritual",
-            texto: "Ninguém discerne sozinho. Buscar um diretor espiritual, um padre, ou um religioso(a) experiente é essencial para ajudar a clarear a mente e organizar os pensamentos."
+            texto: "Ninguém discerne sozinho. Buscar um diretor espiritual, um padre, ou um(a) religioso(a) experiente é essencial para ajudar a clarear a mente e organizar os pensamentos. O que sozinho pode parecer confuso, com um bom acompanhamento se torna mais claro. Procure alguém que possa orientá-lo, converse com o seu Padre sobre seu desejo e também peça ao Senhor que ilumine a escolher alguém que pode te ajudar."
         },
         {
             numero: "4",
